@@ -18,19 +18,19 @@ Run each of the files in this folder.
 ## Mongoose data analysis -
 Download the data and upload to the empty 'MongooseDataAnalysis/Data' folder
 
-# Initial Model Comparison
+### Initial Model Comparison
 set working directory to: 'MongooseDataAnalysis/InitialModelComparison'
 Run the Setup file
 Run the post file
 Outputs will be saved in the output folder that the code creates.
 
-# Sex Specific Comparison
+### Sex Specific Comparison
 set working directory to: 'MongooseDataAnalysis/SexSpecific'
 Run the Setup file
 Run the post file
 Outputs will be saved in the output folder that the code creates.
 
-# Initial Model Comparison
+### Initial Model Comparison
 set working directory to: 'MongooseDataAnalysis/EscortSpecific'
 Run the Setup file
 Run the post file
