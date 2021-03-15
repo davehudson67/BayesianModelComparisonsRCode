@@ -17,6 +17,7 @@ Run each of the files in this folder.
 
 ## Mongoose data analysis -
 Download the data and upload to the empty 'MongooseDataAnalysis/Data' folder
+We suggest starting a new R session for each of the analyses.
 
 ### Initial Model Comparison
 set working directory to: 'MongooseDataAnalysis/InitialModelComparison'
