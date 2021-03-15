@@ -5,7 +5,7 @@ library(survival)
 rm(list=ls())
 
 ## load data
-mong <- readRDS("../Data/mong_Cleaned.rds")
+mong <- readRDS("../Data/mongoose.rds")
 
 ## set up data
 tU <- mong$death_day
